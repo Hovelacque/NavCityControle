@@ -7,7 +7,7 @@ Caso você só precise da APK deixei ela no repositório para facilitar a sua vi
 ## Getting started
 1. `$ npm install`
 
-2. `Replace node_modules\react-native-ir-manager for [y152132341/react-native-ir-manager](https://github.com/y152132341/react-native-ir-manager)`
+2. `Replace node_modules\react-native-ir-manager for `[y152132341/react-native-ir-manager](https://github.com/y152132341/react-native-ir-manager)
 
 3. `$ npx react-native run-andrid`
 
