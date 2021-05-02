@@ -12,7 +12,9 @@
   "dependencies": {
     "react": "17.0.1",
     "react-native": "0.64.0",
-    "react-native-ir-manager": "^0.0.4"
+    "react-native-elements": "^3.4.1",
+    "react-native-ir-manager": "^0.0.4",
+    "react-native-vector-icons": "^8.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
