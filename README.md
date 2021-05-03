@@ -1,5 +1,5 @@
 # NavCityControle
-Controle para home theater NS5100 da marca NayCity
+Controle para home theater NS5100 da marca NavCity
 
 ## APK
 Caso você só precise da APK deixei ela no repositório para facilitar a sua vida [APK](https://github.com/Hovelacque/NavCityControle/blob/main/APP.apk). O iOS vou ficar devendo ... 
